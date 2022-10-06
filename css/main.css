@@ -181,7 +181,7 @@ header .menu-header a:hover {
   padding: 0px;
   box-sizing: border-box; }
   * body {
-    background-image: url("../images/bg-cave.png");
+    background-image: url("../images/bg-cave.webp");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position-y: bottom; }
